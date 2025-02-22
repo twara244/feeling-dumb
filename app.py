@@ -286,7 +286,7 @@ def update_user_profile():
 
 @app.route('/')
 def home():
-    return render_template('home.html')
+    return "FeelingDumb"
 
 # @app.route('/login')
 # def login():
